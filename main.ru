@@ -9,3 +9,5 @@ print(x)
 
 y = x * 3
 print(y)
+
+z = y + x
